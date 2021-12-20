@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Kindergaten.dir/main.cpp.o CMakeFiles/Kindergaten.dir/Kindergarten.cpp.o CMakeFiles/Kindergaten.dir/Person.cpp.o CMakeFiles/Kindergaten.dir/Admin.cpp.o CMakeFiles/Kindergaten.dir/Child.cpp.o CMakeFiles/Kindergaten.dir/Desk.cpp.o CMakeFiles/Kindergaten.dir/Board.cpp.o -o Kindergaten 

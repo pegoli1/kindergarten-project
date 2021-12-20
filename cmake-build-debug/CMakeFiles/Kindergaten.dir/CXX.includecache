@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/reza/Desktop/Kindergarten/Admin.h
+Person.h
+/home/reza/Desktop/Kindergarten/Person.h
+
+/home/reza/Desktop/Kindergarten/Board.h
+string
+-
+
+/home/reza/Desktop/Kindergarten/Child.h
+Person.h
+/home/reza/Desktop/Kindergarten/Person.h
+
+/home/reza/Desktop/Kindergarten/Desk.h
+string
+-
+
+/home/reza/Desktop/Kindergarten/Kindergarten.h
+vector
+-
+Admin.h
+/home/reza/Desktop/Kindergarten/Admin.h
+Child.h
+/home/reza/Desktop/Kindergarten/Child.h
+Desk.h
+/home/reza/Desktop/Kindergarten/Desk.h
+Board.h
+/home/reza/Desktop/Kindergarten/Board.h
+
+/home/reza/Desktop/Kindergarten/Person.h
+string
+-
+
+/home/reza/Desktop/Kindergarten/main.cpp
+iostream
+-
+Kindergarten.h
+/home/reza/Desktop/Kindergarten/Kindergarten.h
+
